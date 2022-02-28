@@ -12,6 +12,12 @@ body,html{
     margin: 20% auto;
     text-align: center;
 }
+
+.exit{
+    width: 80%;
+    margin: 20px auto;
+}
+
 .st-container h2{
     margin: 20px;
 }
@@ -75,9 +81,14 @@ body,html{
     color: white;
 }
 
+.victory{
+    background: green;
+    color: white !important;
+}
+
 @media screen and (min-width:600px) {
     .st-container,.element-container, .bottom{
-        width: 40%;
+        width: 50%;
     }
     .element-container{
         height: 60vh;
