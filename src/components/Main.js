@@ -63,7 +63,7 @@ const Main = () => {
         {val === null || "" ? (
           <div className="chance">{turn}&nbsp;Turn</div>
         ) : (
-          <div className="chance">{val}&nbsp;Wins</div>
+          <div className="chance">{temp}&nbsp;Wins</div>
         )}
         {/* ----------------Restart Button ----------- */}
         {cnt > 0 ? (
