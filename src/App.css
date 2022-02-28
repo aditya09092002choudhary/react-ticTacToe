@@ -14,8 +14,8 @@ body,html{
 }
 
 .exit{
-    width: 80%;
-    margin: 20px auto;
+    width: 95%;
+    margin: 3% auto 6%;
 }
 
 .st-container h2{
@@ -39,7 +39,7 @@ body,html{
 .element-container{
     margin-top: 50px;
     height: 50vh;
-    width: 80%;
+    width: 95%;
     margin: 5% auto;
     /* border: 1px solid; */
     display: grid;
@@ -56,10 +56,11 @@ body,html{
     align-items: center;
     color: green;
     font-size: 30px;
+
 }
 
 .bottom{
-    width: 80%;
+    width: 95%;
     margin: 3% auto;
     /* border: 1px solid; */
 }
@@ -69,6 +70,7 @@ body,html{
     text-align: center;
     padding: 7px;
     border: 1px solid green;
+    margin-top: 6%;
 }
 
 .bottom .restart{
